@@ -1,2 +1,4 @@
 # Beautiful-Bidiagonals
-Set of codes dedicated to bidiagonalization
+
+
+Bidiagonalization is a powerful tool that appears routinely in many algorithms such as the SVD.
